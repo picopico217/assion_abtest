@@ -1,0 +1,30 @@
+
+
+#method_host, #address {
+  display : none;
+}
+
+.block-order-method--prev-btn, .pane-topic-path, #footer_pagetop>a {
+  display : none;
+}
+
+.pane-main {
+  padding-bottom : 0px;
+}
+
+.block-footer-message {
+  background: #fff;
+  padding-top: 0;
+}
+  
+#method_salesdetailappend {
+  display:none;
+}
+  
+.block-order-estimate--price-items , .block-order-estimate--total , .block-order-estimate--procedure-container-info {
+  display:none;
+}
+  
+.pane-main h2 {
+  margin-top: 50px !important;
+}

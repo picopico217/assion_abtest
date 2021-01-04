@@ -1,0 +1,12 @@
+.top_page .bg_event > .inner > ul.slider.multiple-item.slick-initialized.slick-slider {
+    display: none;
+  }
+  
+  .event-info > .content2 span {
+    text-align: center;
+    display: block;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 25px;
+    margin-bottom: -25px;
+  }
